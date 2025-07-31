@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ldb2010chefinho</h1>
 <h3 align="center">Eu estou estudando para me tornar um grande programador de apps</h3>
 
+[![octocat-1753989166040.png](https://i.postimg.cc/zvysFRdb/octocat-1753989166040.png)](https://postimg.cc/bSjVzdfp)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ldb2010chefinho&label=Profile%20views&color=0e75b6&style=flat" alt="ldb2010chefinho" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ldb2010chefinho" alt="ldb2010chefinho" /></a> </p>
