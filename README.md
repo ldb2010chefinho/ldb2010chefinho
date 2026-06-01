@@ -14,11 +14,6 @@
 - ☕ Aprendendo programação um projeto por vez
 - 🚀 Objetivo: desenvolver aplicativos e sistemas cada vez melhores
 
-## 📫 Contato
-
-<p align="left">
-www.linkedin.com/in/lucca-begliomini-02491b2a7</p>
-
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="left">
