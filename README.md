@@ -21,11 +21,7 @@ Fora do código: Marvel, DC e videogame.
 
 <img src="./assets/sec-atividade.svg" width="100%" alt="Atividade">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=000000&text_color=217C3E&icon_color=2AA344">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=00000000&text_color=0E260F&icon_color=217C3E">
-  <img alt="Estatísticas do GitHub de ldb" src="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=000000&text_color=217C3E&icon_color=2AA344">
-</picture>
+<img src="https://raw.githubusercontent.com/ldb2010chefinho/ldb2010chefinho/output/stats.svg" width="100%" alt="Números do perfil: contribuições, repositórios, estrelas e seguidores">
 
 <br><br>
 
