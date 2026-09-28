@@ -17,13 +17,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake-dark.svg?color_snake=#2AA344&color_dots=#0E260F,#217C3E,#217C3E,#2AA344,#2AA344
-            dist/snake-light.svg?color_snake=#11115C&color_dots=#0E260F,#217C3E,#217C3E,#2AA344,#2AA344
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -35,6 +28,13 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USER: ${{ github.repository_owner }}
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?color_snake=#2AA344&color_dots=#0E260F,#217C3E,#217C3E,#2AA344,#2AA344
+            dist/snake-light.svg?color_snake=#11115C&color_dots=#0E260F,#217C3E,#217C3E,#2AA344,#2AA344
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
