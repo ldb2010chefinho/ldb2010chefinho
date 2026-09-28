@@ -1,51 +1,36 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=chinese+rocks&pause=1000&color=278F0D&width=435&lines=Olá%2C+eu+sou+o+ldb2010chefinho)](https://git.io/typing-svg)
-
-<h3 align="center">💻 Estudando para me tornar um desenvolvedor de software</h3>
-
 <p align="center">
-  <img src="https://i.postimg.cc/zvysFRdb/octocat-1753989166040.png" alt="octocat" width="250"/>
+  <img src="./assets/header.svg" width="100%" alt="ldb — estudante de programação, rumo ao fullstack com foco em front-end">
 </p>
 
+<img src="./assets/sec-agora.svg" width="100%" alt="Agora">
 
-## 👨‍💻 Sobre mim
+Estudando várias linguagens ao mesmo tempo. A maior parte do tempo vai para o front: HTML, CSS, JavaScript e TypeScript. Python, Java e SQL entram para cobrir o outro lado.
 
-- 🎓 Estudante de tecnologia
-- 🌱 Atualmente aprendendo **JavaScript**
-- ☕ Aprendendo programação um projeto por vez
-- 🚀 Objetivo: desenvolver aplicativos e sistemas cada vez melhores
+Fora do código: Marvel, DC e videogame.
 
-## 🛠️ Linguagens e Ferramentas
+<img src="./assets/sec-projetos.svg" width="100%" alt="Projetos">
 
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  </a>
+<a href="https://ldb2010chefinho.github.io/Spider-Man-Brand-New-Day-Landing-Page/"><img src="./assets/proj-spiderman.svg" width="100%" alt="Spider-Man: Brand New Day — landing page do filme"></a>
+<a href="https://github.com/ldb2010chefinho/Blog-Palmeiras"><img src="./assets/proj-palmeiras.svg" width="100%" alt="Blog do Palmeiras"></a>
+<a href="https://ldb2010chefinho.github.io/DOOM-PROTOCOL/"><img src="./assets/proj-doom.svg" width="100%" alt="DOOM PROTOCOL — trilha de estudo de cibersegurança"></a>
+<a href="https://github.com/ldb2010chefinho/Laboratorio-de-Jogos"><img src="./assets/proj-lab.svg" width="100%" alt="Laboratório de Jogos"></a>
 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
-  </a>
+<img src="./assets/sec-stack.svg" width="100%" alt="Stack">
 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
+<img src="./assets/stack.svg" width="100%" alt="Front-end: HTML, CSS, JavaScript, TypeScript. Back-end e dados: Python, Java, SQL, Firebase. Ferramentas: Git, GitHub, Figma.">
 
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+<img src="./assets/sec-atividade.svg" width="100%" alt="Atividade">
 
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=000000&text_color=217C3E&icon_color=2AA344">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=00000000&text_color=0E260F&icon_color=217C3E">
+  <img alt="Estatísticas do GitHub de ldb" src="https://github-readme-stats.vercel.app/api?username=ldb2010chefinho&show_icons=true&hide_rank=true&hide_title=true&hide_border=true&border_radius=0&locale=pt-br&bg_color=000000&text_color=217C3E&icon_color=2AA344">
+</picture>
 
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
+<br><br>
 
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ldb2010chefinho/ldb2010chefinho/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ldb2010chefinho/ldb2010chefinho/output/snake-light.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/ldb2010chefinho/ldb2010chefinho/output/snake-dark.svg">
+</picture>
